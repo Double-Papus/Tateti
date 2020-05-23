@@ -1,0 +1,2 @@
+rootProject.name='Tateti Personal'
+include ':app'
